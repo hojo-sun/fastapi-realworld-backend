@@ -17,7 +17,7 @@ This project is a Python-based API that uses PostgreSQL as its database.
 It is built with FastAPI, a modern, fast (high-performance), web framework for building APIs with Python 3 based on standard Python type hints.
 
 ## Prerequisites
-- Python 3.12
+- Python 3.11
 - FastAPI
 - PostgreSQL
 - Pytest
